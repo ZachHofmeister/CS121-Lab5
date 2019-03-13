@@ -151,6 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BloodData.h" />
+    <ClInclude Include="Patient.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
